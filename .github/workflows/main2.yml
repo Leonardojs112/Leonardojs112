@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
-      - uses: Leonardojs112/Leonardojs112
+      - uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: Leonardojs112
