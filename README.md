@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu me chamo Leonardo Jesus</h1>
-<h3 align="center">Estudante de ciências da computação e apaixonado em desenvolvimento web</h3>
+<h3 align="center">Estudante de ciências da computação e apaixonado por desenvolvimento web</h3>
 
-- 🌱 Atualmente estou fazendo cursos sobre **Desenvolvimento Web**
+- 🌱 Atualmente estou fazendo cursos de **Desenvolvimento Web**
 
 - 📫 Você pode me encontrar através do e-mail: **Leonardojs.kel@gmail.com**
 
