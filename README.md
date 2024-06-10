@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou fazendo cursos de **Desenvolvimento Web**
 
-- 📫 Você pode me encontrar através do e-mail: **Leonardojs.kel@gmail.com**
+- 📫 Você pode me contatar através do e-mail: **leonardojs.kel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
